@@ -1,0 +1,58 @@
+KEYFOUND NETWORK – RESEARCH & SECURITY USE LICENSE
+Version 1.0 — 2026
+
+Copyright (c) 2024 KEYFOUND NETWORK
+
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of this software and associated data files (the “Dataset”),
+to use, copy, modify, and analyze the Dataset solely for the purposes of:
+
+- Academic research
+- Blockchain analysis
+- Cryptographic research
+- Security auditing
+- Educational use
+- Open-source investigation and tooling
+
+SUBJECT TO THE FOLLOWING CONDITIONS:
+
+1. RESTRICTIONS ON USE
+   The Dataset MAY NOT be used for:
+   - Attempting to derive, guess, brute-force, or recover private keys
+   - Wallet compromise, theft, or unauthorized access
+   - Financial exploitation or criminal activity
+   - Surveillance, profiling, or targeting of individuals
+   - Any activity that violates applicable local, national, or international laws
+
+2. NO PRIVATE KEY MATERIAL
+   This Dataset contains ONLY publicly available blockchain-derived data.
+   No private keys, secrets, credentials, or sensitive material are included
+   or implied.
+
+3. ATTRIBUTION
+   Any public use, publication, derivative work, or redistribution of this
+   Dataset or substantial portions of it must include clear attribution to:
+
+   “KEYFOUND NETWORK – Pubkey Bitcoin Public Key Archive”
+
+4. NO WARRANTY
+   THE DATASET IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+5. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+   OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE DATASET OR THE
+   USE OR OTHER DEALINGS IN THE DATASET.
+
+6. TERMINATION
+   Any violation of the terms of this license automatically terminates the
+   rights granted herein without notice.
+
+By using, copying, or distributing this Dataset, you agree to be bound by
+the terms of this license.
+
+For research, analysis, and education only.
+
+© 2024 KEYFOUND NETWORK

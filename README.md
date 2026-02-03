@@ -44,6 +44,7 @@ The archive is generated through **block-by-block extraction** from the Bitcoin 
 ```
 pubkey/
 ├── README.md
+├── LICENSE
 └── pubkey/
     ├── 221.txt
     ├── 184674.txt

@@ -142,4 +142,4 @@ License details will be added as the project evolves.
 Created and maintained by KEYFOUND NETWORK
 Initiated by [@privatekeydirectory](https://t.me/privatekeydirectory)
 
-## © 2026 KEYFOUND NETWORK
+## © 2024 KEYFOUND NETWORK
